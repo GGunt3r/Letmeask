@@ -28,6 +28,7 @@ export function NewRoom(){
             authorId: user?.id,
         })
     }
+    
     return (
         <div id="page-auth">
             <aside>
