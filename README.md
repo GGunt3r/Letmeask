@@ -31,7 +31,7 @@ Execute os comandos no seu terminal:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/GGunt3r/nwl-06
+$ git clone https://github.com/GGunt3r/nlw-06.git
 
 # Entre no repositório
 $ cd nlw-06
